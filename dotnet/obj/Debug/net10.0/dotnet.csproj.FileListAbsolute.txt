@@ -1,0 +1,14 @@
+/home/proden/Projects/Repos/euler/dotnet/obj/Debug/net10.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/proden/Projects/Repos/euler/dotnet/obj/Debug/net10.0/dotnet.AssemblyInfoInputs.cache
+/home/proden/Projects/Repos/euler/dotnet/obj/Debug/net10.0/dotnet.AssemblyInfo.cs
+/home/proden/Projects/Repos/euler/dotnet/obj/Debug/net10.0/dotnet.csproj.CoreCompileInputs.cache
+/home/proden/Projects/Repos/euler/dotnet/bin/Debug/net10.0/dotnet
+/home/proden/Projects/Repos/euler/dotnet/bin/Debug/net10.0/dotnet.deps.json
+/home/proden/Projects/Repos/euler/dotnet/bin/Debug/net10.0/dotnet.runtimeconfig.json
+/home/proden/Projects/Repos/euler/dotnet/bin/Debug/net10.0/dotnet.dll
+/home/proden/Projects/Repos/euler/dotnet/bin/Debug/net10.0/dotnet.pdb
+/home/proden/Projects/Repos/euler/dotnet/obj/Debug/net10.0/dotnet.dll
+/home/proden/Projects/Repos/euler/dotnet/obj/Debug/net10.0/refint/dotnet.dll
+/home/proden/Projects/Repos/euler/dotnet/obj/Debug/net10.0/dotnet.pdb
+/home/proden/Projects/Repos/euler/dotnet/obj/Debug/net10.0/dotnet.genruntimeconfig.cache
+/home/proden/Projects/Repos/euler/dotnet/obj/Debug/net10.0/ref/dotnet.dll
